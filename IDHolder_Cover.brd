@@ -1617,6 +1617,7 @@
 <vertex x="-29.8" y="45.3"/>
 <vertex x="-27.9" y="47.2"/>
 </polygon>
+<text x="12.6" y="-43.8" size="0.8" layer="22" font="vector" ratio="15" rot="MR0" align="center">JLCJLCJLCJLC</text>
 </plain>
 <libraries>
 <library name="analog-devices" urn="urn:adsk.eagle:library:102">
