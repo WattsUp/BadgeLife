@@ -7,4 +7,4 @@ This is a holder I made for my ID badge at work. It is non functional and purely
 
 Mechanically, I am impressed by the clips machined out of the PCB that work amazing the first try. They assembly procedure could use improvement due to warping. Currently three boards are reflowed together to form a sandwich.
 
-Images here
+![Image of ID Holder](https://github.com/WattsUp/BadgeLife/blob/documentation/Pictures/IDHolder.jpg)
